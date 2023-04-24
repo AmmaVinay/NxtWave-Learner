@@ -1,0 +1,82 @@
+ 
+.bg-flats {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.flat-heading {
+    color: #f19116;
+    text-align: center;
+    font-family: "Bree Serif";
+}
+
+.flat-description {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 15px;
+}
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+}
+
+.bg-flat-list {
+    background-color: #222222;
+    padding: 15px;
+}
+
+.bg-card {
+    background-color: #ffffff;
+    border-radius: 7px;
+}
+
+.flat-list-heading {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    margin: 5px;
+    font-weight: bold;
+}
+
+.flat-list-description {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 15px;
+    margin: 2px;
+}
+
+.inner-bg {
+    padding: 5px;
+}
+
+.flat-images {
+    border-radius: 7px;
+}
+
+.image-flat {
+    width: 100vw;
+    height: 50vh;
+}
+
+.flat-detail-description {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.flat-detail-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+}
+
+.bg-flatdetail {
+    background-color: #222222;
+    padding: 15px;
+}
+
+.line-hr {
+    border: 1px solid white;
+}
