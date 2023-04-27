@@ -1,0 +1,28 @@
+
+.bg-tech {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+.tech-heading {
+    color: #5752ab;
+}
+.tech-description {
+    color: #323f4b;
+}
+.button {
+    color: #5752ab;
+    margin-right: 5px;
+}
+.button-2 {
+    border-color: #d7dfe9;
+    color: #ffffff;
+    margin-left: 10px;
+}
+.card-tech {
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-family: Roboto;
+}
