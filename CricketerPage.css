@@ -1,0 +1,28 @@
+
+.bg-card-one {
+    background-color: #fb4e71;
+    padding: 15px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.small-cards {
+    background-color: #e6f6ff;
+}
+
+.innercard-description {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.headding {
+    padding: 10px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.innercard {
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 10px;
+}
